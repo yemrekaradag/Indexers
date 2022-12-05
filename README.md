@@ -4,6 +4,8 @@ Indexers are similar to properties, except that their accessors take parameters.
 
 In this example, I initialize the size that I injected into the generic array in the class I created and fill the indexes of the array with the double values I get from outside. As output, I increment each element in the array by 10%.
 
+<img alt="indexers" src="https://user-images.githubusercontent.com/107070882/205652506-254dee7b-4fec-4198-9ee9-4a3b34162ffa.png">
+
 <hr>
 
 # İndeks Oluşturucular
