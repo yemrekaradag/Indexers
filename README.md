@@ -11,3 +11,5 @@ In this example, I initialize the size that I injected into the generic array in
 Dizin oluşturucular, erişimcilerinin parametre alması dışında özelliklere (properties) benzer.
 
 Bu örnekte oluşturduğum class'ın içerisindeki jenerik dizi'ye injection ile gönderdiğim boyut initialize yapıyorum ve dizi'nin indexlerini dışardan aldığım double değerler ile dolduruyorum. Output olarak dizi'nin içindeki her elemanı %10 arttırıyorum.
+
+<img alt="indexers" src="https://user-images.githubusercontent.com/107070882/205652506-254dee7b-4fec-4198-9ee9-4a3b34162ffa.png">
